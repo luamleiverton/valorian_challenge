@@ -16,6 +16,6 @@ Para executar, após a instalação das dependências, python instalado e venv a
 
 O script utiliza como entrada do usuário o nome do arquivo, ou diretório absoluto, onde está armazenado, ao ser executado no prompt aparecerá um input para indicação do arquivo. No caso coleta.txt.
 
-#Link do EDA
+# Link do EDA
 
 https://colab.research.google.com/drive/1ido-zrne61ZKD_3_RRa0GBTJhExlDxwV?usp=sharing
